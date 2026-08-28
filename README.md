@@ -27,7 +27,7 @@ Este repositório contém a estrutura completa para subir um banco de dados Post
 ├── requirements.txt     # Dependências Python do projeto
 └── README.md            # Documentação do repositório
 
-
+```
 🚀 Como Executar o Projeto
 Pró-requisitos
 Docker Desktop instalado e rodando.
